@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+express-helmet-app/node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+
+# Env
+.env
+
+# VSCode
+.vscode/
